@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-gpio-debouncing-mcc",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "AVR128DA48 GPIO Debouncing Code Example",
         "projectName": "avr128da48-cnano-gpio-debouncing-mcc",
         "shortDescription": "Code example for a button debouncing.",
