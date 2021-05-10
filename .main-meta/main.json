@@ -41,7 +41,7 @@
             [
                 "Peripherals",
                 "EVSYS"
-            ],
+            ]
         ],
 		"peripherals": [
             "EVSYS"
