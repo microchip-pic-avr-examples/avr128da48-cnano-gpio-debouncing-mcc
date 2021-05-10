@@ -10,7 +10,7 @@
         "shortDescription": "This repository provides an MPLAB X project with an MCC generated code example for a button debouncing",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ">=5.40"
+            "semverRange": ">=5.40.0"
         },
         "compiler": [
 			{
